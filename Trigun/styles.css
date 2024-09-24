@@ -1,0 +1,152 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    height: 100vh;
+    position: relative;
+}
+
+.trigun {
+    position: absolute;
+    top: 20px; 
+    left: 15px;
+}
+
+.trigun h1 {
+    font-size: 230px;
+    color: darkred;
+    text-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2); 
+    margin: 0;
+    letter-spacing: 5px;
+     font-family: Walbaum Text;
+}
+
+.name-title {
+    padding: 10px;
+    position: relative;
+    z-index: 1;
+}
+
+.name{
+    transform: rotate(-1deg);
+    right: 40px;
+    top: -20px;
+    width: 171px;
+    position: absolute;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    width: 10px;
+}
+
+.trigunpic1 {
+    width: 220px;
+    height: 295px;
+    position: absolute;
+    transform: rotate(-4deg);
+    right: 685px;
+    top: 1px;
+}
+
+.trigunpic2 {
+    width: 900px;
+    height: 400px;
+    position: absolute;
+   left: 80px;
+   top: 140px;
+}
+
+.trigunpic3 {
+    width: 460px;
+    height: 320px;
+    position: absolute;
+    left: -138px;
+    top: 220px;
+    z-index: -4;
+}
+
+.footer {
+    position: fixed;
+    bottom: auto;
+    width: 100px;
+    text-align: center;
+    z-index: 99;
+    margin-top: 525px;
+}
+
+.footer-box {
+    background-color: lightpink;
+    padding: 9px;
+    display: inline-block;
+    width: 1265px;
+}
+
+.footer-box p {
+    color: black;
+    margin: 0;
+    font-size: 17px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
